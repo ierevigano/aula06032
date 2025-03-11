@@ -1,0 +1,28 @@
+h1{
+    color: salmon;
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+}
+h2{
+    color: salmon;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+}
+h3{
+    color: salmon;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
